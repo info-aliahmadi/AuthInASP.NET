@@ -1,4 +1,4 @@
-# ASP.NET (.NET 7) Authentication and Authorization Project
+# Authentication and Authorization(Permission-based) in ASP.NET Core Project (.NET 7)
 
 This project is an example implementation of authentication and authorization (Permission-based) in ASP.NET Core using the .NET 7 framework. It provides a basic setup for user registration, login, role management, and access control to various parts of the application based on user roles and permissions.
 
